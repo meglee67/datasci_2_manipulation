@@ -1,4 +1,5 @@
 # datasci_2_manipulation
+* Due Sep 12
 * HHA 507 HW 2
 * Assignment details below
 
